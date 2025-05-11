@@ -1,0 +1,19 @@
+ <style type="text/css">
+    <!--
+    .style1 {
+      color: #C1FF64
+    }
+    -->
+    * {
+  box-sizing: border-box;
+}
+    p{
+      background-color: powderblue;
+      padding: 20px;
+      border-radius: 5px;
+      font-size: 20px;
+      font-family:san-serif;
+    }
+
+
+  </style>
